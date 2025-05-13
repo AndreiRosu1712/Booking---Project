@@ -1,7 +1,6 @@
 package com.example.Project_IP.controller;
 
-import com.example.Project_IP.entities.User;
-import com.example.Project_IP.service.FirestoreService;
+import com.example.Project_IP.model.User;
 import com.example.Project_IP.service.UserService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
