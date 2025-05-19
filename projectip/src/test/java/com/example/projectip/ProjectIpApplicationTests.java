@@ -1,4 +1,4 @@
-package com.example.Project_IP;
+package com.example.projectip;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

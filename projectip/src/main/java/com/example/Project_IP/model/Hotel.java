@@ -19,4 +19,16 @@ public class Hotel {
     public void setId(String id) {
         this.id = id;
     }
+
+    public void getName() {
+        this.nume = nume;
+    }
+
+    public void getLocation() {
+        this.locatie = locatie;
+    }
+
+    public void getManager() {
+        this.idManager = idManager;
+    }
 }
