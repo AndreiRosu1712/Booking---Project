@@ -1,4 +1,4 @@
-package com.example.projectip;
+package com.example.Project_IP;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
