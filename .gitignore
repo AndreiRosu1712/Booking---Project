@@ -1,0 +1,14 @@
+# Ignoră artefactele compilate și secretele
+target/
+*.class
+*.jar
+*.log
+
+# Fișiere sensibile
+firebase-key.json
+*.json
+
+# Node modules pentru frontend
+node_modules/
+build/
+.env
